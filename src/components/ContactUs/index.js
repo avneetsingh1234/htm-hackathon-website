@@ -95,7 +95,7 @@ function Index() {
             />
           </div>
           <div>
-            <button type="submit" className="contactUsButton" style={{opacity: loader?0.3:1}}>
+            <button type="submit" className="btn" style={{opacity: loader?0.3:1}}>
               Contact Us
             </button>
           </div>
