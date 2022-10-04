@@ -15,14 +15,14 @@ function index() {
   	 				<li><a href="#">Home</a></li>
   	 				<li><a href="#">Our Intentions</a></li>
   	 				<li><a href="#">Issues</a></li>
-  	 				<li><a href="#">Join Us</a></li>
+  	 				<li><a href="#">Contact Us</a></li>
   	 			</ul>
   	 		</div>
   	 		<div className="footer-col">
   	 			<h4>Contact Us</h4>
 				<p>+91 9876543210</p>
 				<br/>
-				<p>JSS Academy of Technical Education Noida</p>
+				<p>JSS Noida</p>
 				<br/>
   	 			<div className="social-links">
   	 				<a href="#"><i className="fab fa-facebook-f"></i></a>
