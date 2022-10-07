@@ -13,7 +13,7 @@ ul{
 	list-style: none;
 }
 .footer{
-	background-color: #24262b;
+	background-color: #121317;
     padding: 10px 0;
 }
 .footer-row{
@@ -30,7 +30,7 @@ ul{
  }
 .footer-col h4{
 	font-size: 18px;
-	color: #ffffff;
+	color: #e4e4e4;
 	text-transform: capitalize;
 	margin-bottom: 35px;
 	font-weight: 500;
@@ -38,7 +38,7 @@ ul{
 }
 .footer-col1 h4{
 	font-size: 18px;
-	color: #ffffff;
+	color: #e4e4e4;
 	text-transform: capitalize;
 	margin-bottom: 35px;
 	font-weight: 500;
@@ -53,7 +53,7 @@ ul{
 	position: absolute;
 	left:0;
 	bottom: -10px;
-	background-color: #0d9979;
+	background-color: #048668;
 	height: 2px;
 	box-sizing: border-box;
 	width: 100px;
@@ -63,7 +63,7 @@ ul{
 	position: absolute;
 	left:0;
 	bottom: -10px;
-	background-color: #0d9979;
+	background-color: #048668;
 	height: 2px;
 	box-sizing: border-box;
 	width: 55%;
@@ -105,7 +105,7 @@ ul{
 	text-align: center;
 	line-height: 40px;
 	border-radius: 50%;
-	color: #ffffff;
+	color: #e4e4e4;
 	transition: all 0.5s ease;
 }
 .footer-col .social-links a:hover{
