@@ -13,7 +13,7 @@ ul{
 	list-style: none;
 }
 .footer{
-	background-color: #121317;
+	background-color: #0b2e18;
     padding: 10px 0;
 }
 .footer-row{
@@ -53,7 +53,7 @@ ul{
 	position: absolute;
 	left:0;
 	bottom: -10px;
-	background-color: #048668;
+	background-color: #2bbd96;
 	height: 2px;
 	box-sizing: border-box;
 	width: 100px;
@@ -63,7 +63,7 @@ ul{
 	position: absolute;
 	left:0;
 	bottom: -10px;
-	background-color: #048668;
+	background-color: #2bbd96;
 	height: 2px;
 	box-sizing: border-box;
 	width: 55%;
